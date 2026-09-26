@@ -8,21 +8,21 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'PenguinMod',
+    title: 'Permafy',
     // tagline: 'Dinosaurs are cool',
     favicon: 'img/favicon.ico',
     
     // Set the production url of your site here
-    url: 'https://docs.penguinmod.com',
+    url: 'https://permafy.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/',
+    baseUrl: '/docs/',
     trailingSlash: true,
     
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'PenguinMod', // Usually your GitHub org/user name.
-    projectName: 'PenguinMod-Docs', // Usually your repo name.
+    organizationName: 'Permafy', // Usually your GitHub org/user name.
+    projectName: 'docs', // Usually your repo name.
     
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
@@ -59,39 +59,39 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         navbar: {
-            title: 'PenguinMod',
+            title: 'Permafy',
             logo: {
-                alt: 'PenguinMod Logo',
+                alt: 'Permafy Logo',
                 src: 'img/favicon.png',
             },
             items: [
                 {
-                    href: '/blocks/',
+                    href: '/docs/blocks/',
                     label: 'Help with Blocks',
                     position: 'left'
                 },
                 {
-                    href: '/extensions/',
+                    href: '/docs/extensions/',
                     label: 'Help with Extensions',
                     position: 'left'
                 },
                 {
-                    href: '/development/extensions/',
+                    href: '/docs/development/extensions/',
                     label: 'Custom Extensions',
                     position: 'left'
                 },
                 {
-                    href: '/save-format/core-concepts',
+                    href: '/docs/save-format/core-concepts',
                     label: 'Concepting a new Save File Format',
                     position: 'left'
                 },
                 {
-                    href: 'https://penguinmod.com/',
-                    label: 'PenguinMod',
+                    href: 'https://permafy.github.io/',
+                    label: 'Permafy',
                     position: 'right'
                 },
                 {
-                    href: 'https://github.com/PenguinMod/',
+                    href: 'https://github.com/Permafy/',
                     label: 'GitHub',
                     position: 'right',
                 },
