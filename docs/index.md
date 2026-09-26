@@ -1,30 +1,32 @@
 ---
-title: About PenguinMod
+title: About Pernafy
 displayed_sidebar: tutorialSidebar
 ---
 
-<img src="img/favicon.png" alt="PenguinMod"></img>
+<img src="img/favicon.png" alt="Permafy"></img>
 
-## What is PenguinMod?
+## What is Permafy?
 
-PenguinMod is a mod of [TurboWarp](https://turbowarp.org/) by [GarboMuffin](https://github.com/GarboMuffin).  
-We edited their code a lot to add tons of new extensions and features for people to use.
+Permafy is a mod of [PenguinMod](https://penguinmod.com/) and other [Scratch](https://scratch.org/) Mods by [aynonyaz](https://github.com/aynonyaz/).
+I edited the code of PenguinMod, Snail IDE and GaiaMod to add some new features and you know, things for people to use!
 
-Feel free to [use PenguinMod here](https://penguinmod.com/), *you don't need an account to [create a project](https://studio.penguinmod.com/editor.html).*
+Feel free to [use Permafy here](https://permafy.github.io/), *you don't need an account to [create a project](https://permafy.github.io/editor.html).*
 
 ## Who makes PenguinMod?
 
-View the list of contributors [here.](https://studio.penguinmod.com/credits.html)  
-We've been constantly working to make the site awesome for users and developers.
+View the list of contributors [here.](https://permafy.github.io/credits.html)
+I've been constantly working to make the site very cool and awesome for users and developers.
 
 ### Looking to make an extension?
 
 [View the documentation](/development/extensions/introduction) for information on creating extensions.  
 We've added a few small things to extensions that should hopefully allow for some interesting stuff to be made.
 
-Feel free to submit your finished extensions on [our Extra Extensions Gallery.](https://github.com/PenguinMod/PenguinMod-ExtensionsGallery/)
+Feel free to submit your finished extensions on our [Extensions Gallery](https://permafy.github.io/extensions) (may take a while because i may or not be active)
 
 ## More
 
-Our GitHub is located [here](https://github.com/PenguinMod/), feel free to contribute but it may be difficult.  
-We will eventually document the process on working with PenguinMod's internals here.
+Our GitHub is located [here](https://github.com/Permafy/), feel free to contribute but it may be difficult.  
+We will eventually document the process on working with Permafy's internals here.
+
+Permafy is a fork of PenguinMod and it still uses their servers (it also uses Scratch's), so you may see PenguinMod Projects and Scratch Projects too.

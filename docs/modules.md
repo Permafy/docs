@@ -1,11 +1,14 @@
 ---
-title: Parts of PenguinMod
+title: Parts of Permafy
 sidebar_position: 3
 ---
 
-# Parts of PenguinMod
+# Parts of Permafy
 :::warning
-These docs are not completely finished yet. We're slowly working on expanding the documentation while we work on other things, so please be patient with us!
+As Permafy is almost the same as PenguinMod, it will still use their normal docs. I will slowly be expanding the docs section though, as i be adding blocks.
+(permafy will now be referenced as PenguinMod. im too lazy to modify)
+
+These docs are not completely finished yet. PenguinMod devs are slowly working on expanding the documentation while we work on other things, so please be patient with us!
 :::
 These are individual parts of PenguinMod that make up a section of one of PenguinMod's sites.
 
