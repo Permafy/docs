@@ -12,7 +12,7 @@ I edited the code of PenguinMod, Snail IDE and GaiaMod to add some new features 
 
 Feel free to [use Permafy here](https://permafy.github.io/), *you don't need an account to [create a project](https://permafy.github.io/editor.html).*
 
-## Who makes PenguinMod?
+## Who makes Permafy?
 
 View the list of contributors [here.](https://permafy.github.io/credits.html)
 I've been constantly working to make the site very cool and awesome for users and developers.
