@@ -7,7 +7,7 @@ displayed_sidebar: tutorialSidebar
 
 ## What is Permafy?
 
-Permafy is a mod of [PenguinMod](https://penguinmod.com/) and other [Scratch](https://scratch.org/) Mods by [aynonyaz](https://github.com/aynonyaz/).
+Permafy is a mod of [PenguinMod](https://penguinmod.com/) and other [Scratch](https://scratch.org/) Mods.
 I edited the code of PenguinMod, Snail IDE and GaiaMod to add some new features and you know, things for people to use!
 
 Feel free to [use Permafy here](https://permafy.github.io/), *you don't need an account to [create a project](https://permafy.github.io/editor.html).*
